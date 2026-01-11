@@ -1,48 +1,48 @@
-\# HR Analytics SQL Project
+# HR Analytics SQL Project
 
 
 
-\## Description
+## Description
 
-This project analyzes employee data using MySQL to answer real-world HR business questions such as attrition, salary trends, promotions, and tenure.
-
-
-
-\## Database
-
-\- MySQL
-
-\- Tool: MySQL Workbench
+This project analyzes employee data using MySQL to answer real world HR business questions such as attrition, salary trends, promotions, and tenure.
 
 
 
-\## Key Concepts Used
+## Database
 
-\- Joins
+- MySQL
 
-\- Aggregations
-
-\- Conditional logic
-
-\- Date functions
-
-\- Business KPIs
+- Tool: MySQL Workbench
 
 
 
-\## Business Questions Answered
+## Key Concepts Used
 
-\- Attrition rate by department
+- Joins
 
-\- Salary distribution
+- Aggregations
 
-\- Promotion trends
+- Conditional logic
 
-\- Average employee tenure
+- Date functions
+
+- Business KPIs
 
 
 
-\## Author
+## Business Questions Answered
+
+- Attrition rate by department
+
+- Salary distribution
+
+- Promotion trends
+
+- Average employee tenure
+
+
+
+## Author
 
 Nushant Ghimire
 
