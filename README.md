@@ -41,7 +41,6 @@ This repository showcases my SQL expertise through various projects involving da
 
 **Skills Used**: GROUP BY, HAVING, Aggregations, Date Functions
 
-📁 [View Project Folder](./HR Analytics/)
 
 
 ## 🔧 Skills Demonstrated
@@ -71,7 +70,6 @@ This repository showcases my SQL expertise through various projects involving da
 |----------|---------|-----------|
 | **MySQL** | 8.0+ | E-commerce, General analytics |
 | **PostgreSQL** | 14+ | Complex queries, Advanced analytics |
-| **SQLite** | 3.x | Lightweight projects, Testing |
 
 ## 🚀 Setup Instructions
 
