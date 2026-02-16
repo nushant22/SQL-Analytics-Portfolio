@@ -41,7 +41,7 @@ This repository showcases my SQL expertise through various projects involving da
 
 **Skills Used**: GROUP BY, HAVING, Aggregations, Date Functions
 
-📁 [View Project Folder](./project_1/)
+📁 [View Project Folder](./HR Analytics/)
 
 
 ## 🔧 Skills Demonstrated
