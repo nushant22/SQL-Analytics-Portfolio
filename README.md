@@ -30,7 +30,7 @@ This repository showcases my SQL expertise through various projects involving da
 ## 🗂️ Projects Overview
 
 
-### 2. [Project Title 1] - HR Analytics
+### 2. [HR Analytics] - HR Employee Analytics
 **Business Problem**: Understand employee demographics, attrition, and department performance  
 **Database**: PostgreSQL  
 **Key Queries**:
